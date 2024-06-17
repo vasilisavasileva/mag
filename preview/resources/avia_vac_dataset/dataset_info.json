@@ -1,0 +1,70 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "vacancy_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "company.id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "keySkills.keySkill": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "compensation.from": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "compensation.to": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "compensation.currencyCode": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "area.id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "area.regionId": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "employment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "workSchedule": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "workExperience": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "embedding": {
+      "feature": {
+        "dtype": "float64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
