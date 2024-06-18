@@ -1,0 +1,21 @@
+{
+  "logdir": "checkpoints",
+  "topk": 3,
+  "loader_key": "valid",
+  "metric_key": "r2squared",
+  "minimize": false,
+  "storage": [
+    {
+      "logpath": "checkpoints/model.0062.pth",
+      "metric": 0.8942815661430359
+    },
+    {
+      "logpath": "checkpoints/model.0113.pth",
+      "metric": 0.894262969493866
+    },
+    {
+      "logpath": "checkpoints/model.0059.pth",
+      "metric": 0.8941631317138672
+    }
+  ]
+}
